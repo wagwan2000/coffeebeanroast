@@ -100,3 +100,31 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#first {
+    width= 15%;
+}
+
+#second {
+    width= 61%;
+}
+
+#third {
+    width= 24%;
+    align= center;
+}
+
+#coffee {
+    width= 80%;
+}
+
+#comment {
+    width= 20%;
+    align= left;
+}
+
+#Comments {
+    width:622px;
+    align= center;
+}
+
